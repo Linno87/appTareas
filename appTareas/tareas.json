@@ -1,0 +1,19 @@
+[
+   {
+      "id": "1",
+      "nombre": "Limpiar el auto",
+      "estado": "pendiente"
+   },
+   {
+      "id": "85f8b7b7-d907-43ce-86e8-7404a348aae8",
+      "nombre": "Desarrollar la app concesionaria",
+      "estado": "pendiente",
+      "fecha": "2023-05-12T22:17:51.695Z"
+   },
+   {
+      "id": "49c081ba-1ea4-4d6a-98af-728d71ef761a",
+      "nombre": "Desarrollar la app concesionaria",
+      "estado": "pendiente",
+      "fecha": "2023-05-15T21:05:26.497Z"
+   }
+]
